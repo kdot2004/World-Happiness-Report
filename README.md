@@ -1,4 +1,4 @@
-# World-Happiness-Report
+# World-Happiness-Report Project
 This project analyzes the factors contributing to the happiness of countries using data from the World Happiness Report. It employs machine learning techniques to uncover key insights and build predictive models.
 
 
